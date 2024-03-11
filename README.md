@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/shahd-mustafa-194894252/)](https://www.linkedin.com/in/shahd-mustafa-194894252/)
 
 ## :crescent_moon: About Me
-:mortar_board: I'm pursuing my bachelor's in Software Engineering and will graduate in April 2024.
-:round_pushpin: Recently, I had the opportunity to work on developing the Michigan DevFest website in collaboration with a team. I contributed to the development of the website using React and Tailwind CSS. Our efforts resulted in a user-friendly website that over 270+ participants and speakers utilized to navigate the event. 
+- :mortar_board: I'm pursuing my bachelor's in Software Engineering and will graduate in April 2024.
+- :round_pushpin: Recently, I had the opportunity to work on developing the Michigan DevFest website in collaboration with a team. I contributed to the development of the website using React and Tailwind CSS. Our efforts resulted in a user-friendly website that over 270+ participants and speakers utilized to navigate the event. 
 [Link to Michigan DevFest 2023 website](https://midevfest.com) 
 ## :medal_sports: Achievements:
 - :2nd_place_medal: **2nd place winner at Hackathon** at University of Michigan (October 2023)
