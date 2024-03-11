@@ -21,10 +21,13 @@ Here are some ideas to get you started:
 # :desktop_computer: Skills:
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=C++,python&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python&perline=3)](https://skillicons.dev)
 ## Front-End Development
+[![My Skills](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
+
 ## Cross-Platform Development 
 ## Backend
 ## Design Tools
 ## Testing
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
