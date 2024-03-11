@@ -15,19 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/shahd-mustafa-194894252/)](https://www.linkedin.com/in/shahd-mustafa-194894252/)
+
+
 # :medal_sports: Achievements:
 - :2nd_place_medal: **2nd place winner at Hackathon** at University of Michigan (October 2023)
 
 # :desktop_computer: Skills:
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python&perline=3)](https://skillicons.dev)
+
 ## Front-End Development
-[![My Skills](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
+
 
 ## Cross-Platform Development 
 ## Backend
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ## Design Tools
 ## Testing
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
