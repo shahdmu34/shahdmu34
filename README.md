@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:medal_sports: Achievements: 
+# :medal_sports: Achievements:
 - :2nd_place_medal: **2nd place winner at Hackathon** at University of Michigan (October 2023)
