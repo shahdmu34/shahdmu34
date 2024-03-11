@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/shahd-mustafa-194894252/)](https://www.linkedin.com/in/shahd-mustafa-194894252/)
 
 ## :crescent_moon: About Me
 - :mortar_board: I'm pursuing my bachelor's in Software Engineering and will graduate in April 2024.
-- :round_pushpin: Recently, I had the opportunity to work on developing the Michigan DevFest website in collaboration with a team. I contributed to the development of the website using React and Tailwind CSS. Our efforts resulted in a user-friendly website that over 270+ participants and speakers utilized to navigate the event. 
+- :round_pushpin: Recently, I had the opportunity to work on developing the Michigan DevFest website in collaboration with a team. I contributed to the development of the website using React and Tailwind CSS. Our efforts resulted in a user-friendly website that over 270+ participants and speakers utilized to navigate the event.
 [Link to Michigan DevFest 2023 website](https://midevfest.com) 
+- :framed_picture: In my free time I love to pick up new hobbies, right now they are painting/drawing, embroidery, and reading. 
+
 ## :medal_sports: Achievements:
 - :2nd_place_medal: **2nd place winner at Hackathon** at University of Michigan (October 2023)
 
@@ -62,4 +63,8 @@ Here are some ideas to get you started:
 
 ## :trophy: Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahdmu34&margin-w=15&rank=-C,-B,-?&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔗 Links
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/shahd-mustafa-194894252/)](https://www.linkedin.com/in/shahd-mustafa-194894252/)
 
