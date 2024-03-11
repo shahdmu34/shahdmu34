@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 # :medal_sports: Achievements:
 - :2nd_place_medal: **2nd place winner at Hackathon** at University of Michigan (October 2023)
+
+# :desktop_computer: Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
