@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/shahd-mustafa-194894252/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahdmu34&theme=radical)
