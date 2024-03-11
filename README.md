@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/shahd-mustafa-194894252/)](https://www.linkedin.com/in/shahd-mustafa-194894252/)
 
-
-# :medal_sports: Achievements:
+## :crescent_moon: About Me
+:mortar_board: I'm pursuing my bachelor's in Software Engineering and will graduate in April 2024
+:round_pushpin: Recently, I had the opportunity to work on developing the Michigan DevFest website in collaboration with a team. I contributed to the development of the website using React and Tailwind CSS. Our efforts resulted in a user-friendly website that over 270+ participants and speakers utilized to navigate the event. 
+[Link to Michigan DevFest 2023 website](https://midevfest.com) (November 2023)
+## :medal_sports: Achievements:
 - :2nd_place_medal: **2nd place winner at Hackathon** at University of Michigan (October 2023)
 
-# :desktop_computer: Skills:
+## :desktop_computer: Skills:
 
 ### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -57,6 +60,6 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-# :trophy: Github Stats
+## :trophy: Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahdmu34&margin-w=15&rank=-C,-B,-?&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
