@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 # :desktop_computer: Skills:
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=aws,python&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=C++,python&perline=3)](https://skillicons.dev)
 ## Front-End Development
 ## Cross-Platform Development 
 ## Backend
