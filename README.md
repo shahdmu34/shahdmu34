@@ -7,7 +7,7 @@
 - :framed_picture: In my free time I love to pick up new hobbies, right now they are painting/drawing, embroidery, and reading. 
 
 ## :medal_sports: Achievements:
-- :2nd_place_medal: **2nd place winner at Hackathon** at University of Michigan (October 2023)
+- :2nd_place_medal: **2nd place Hackathon winner** at University of Michigan (October 2023)
 
 ## :desktop_computer: Skills:
 
