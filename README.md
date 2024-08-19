@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## :crescent_moon: About Me
-- :mortar_board: I'm pursuing my bachelor's in Software Engineering and will graduate in April 2024.
+- :mortar_board: I recently graduated with a Bachelor's in Software Engineering.
 - :round_pushpin: Recently, I had the opportunity to work on developing the Michigan DevFest website in collaboration with a team. I contributed to the development of the website using React and Tailwind CSS. Our efforts resulted in a user-friendly website that over 270+ participants and speakers utilized to navigate the event.
 [Link to Michigan DevFest 2023 website](https://midevfest.com) 
 - :framed_picture: In my free time I love to pick up new hobbies, right now they are painting/drawing, embroidery, and reading. 
