@@ -1,4 +1,5 @@
 # Hi there 👋
+![](https://komarev.com/ghpvc/?username=gprasad125&style=flat)
 
 ## :crescent_moon: About Me
 - :mortar_board: I recently graduated with a Bachelor's in Software Engineering.
